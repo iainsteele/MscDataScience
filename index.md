@@ -4,6 +4,8 @@ This website is hosted using the GitHub Pages system.
 
 [https://pages.github.com]
 
+With the (Cayman)[https://github.com/pages-themes/cayman] theme.
+
 It is written using the Markdown language
 
 [https://guides.github.com/features/mastering-markdown/]
