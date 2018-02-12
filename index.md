@@ -1,6 +1,12 @@
-# This is a header
+# Introduction
 
-Hello there folks
+This website is hosted using the GitHub Pages system.
+
+https://pages.github.com
+
+
+
+
 
 * Item 1
 * Another item
