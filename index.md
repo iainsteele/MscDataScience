@@ -44,12 +44,12 @@ Even if you want to use Word to write the document, [latex2png](http://latex2png
 
 # Tools for Literature Searches and Access
 
-1.  [Google Scholar](https://scholar.google.co.uk) - general, free
-1.  [Web Of Science](https://webofknowledge.com/) - general, LJMU licencse
-1.  [Scopus](https://www.scopus.com/) - general, LJMU license
-1.  [NASA ADS](https://ui.adsabs.harvard.edu/) - astronomy/astrophysics
-1.  [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) - life sciences
-1.  [The arXiv](https://arxiv.org) - preprints.  Use varies by discipline
+*  [Google Scholar](https://scholar.google.co.uk) - general, free
+*  [Web Of Science](https://webofknowledge.com/) - general, LJMU licencse
+*  [Scopus](https://www.scopus.com/) - general, LJMU license
+*  [NASA ADS](https://ui.adsabs.harvard.edu/) - astronomy/astrophysics
+*  [PubMed](https://www.ncbi.nlm.nih.gov/pubmed/) - life sciences
+*  [The arXiv](https://arxiv.org) - preprints.  Use varies by discipline
 
 
 
