@@ -17,7 +17,7 @@ or
 
 1.  Ordered lists
 1.  with numbers
-    1.  and subsections
+    
 
 Or I can format some example code:
 
