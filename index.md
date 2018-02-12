@@ -2,11 +2,13 @@
 
 This website is hosted using the GitHub Pages system.
 
-https://pages.github.com
+[https://pages.github.com]
 
 It is written using the Markdown language
 
-https://guides.github.com/features/mastering-markdown/
+[https://guides.github.com/features/mastering-markdown/]
+
+[https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet]
 
 which is a simple way of writing structured documents without much of the complexity of HTML.
 
