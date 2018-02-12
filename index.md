@@ -21,13 +21,14 @@ or
 1.  with numbers
     1.  and subsections
 
+Or I can format some example code:
 
 
-```
+```c
     int main() 
       {
       printf("Hello World");
       }
 ```
 
-Some example code above
+
