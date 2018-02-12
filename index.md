@@ -29,4 +29,4 @@ Or I can format some example code:
       }
 ```
 
-This is another branch 
+This is a basic introduction to using [GitHub](https://guides.github.com/activities/hello-world/) and the [GitHub Work Flow](https://guides.github.com/introduction/flow/).
