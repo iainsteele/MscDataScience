@@ -38,7 +38,7 @@ them back to a branch.  You can either do this with the [command line git tools]
 For you project report you have two obvious choices in the tools you choose.
 
 1.  Microsoft Word (+ Endnote reference manager).  Both of these tools are on the LJMU App Player.
-1.  LaTeX (+ bibTeX reference manager).  LaTeX is a document preparation system that is well suited to  scientific/mathematical documents.  Rather than installing it yourself, the online [Overleaf](https://www.overleaf.com) system is easy to use and provides the ability to collaboratively edit.
+1.  LaTeX (+ bibTeX reference manager).  [LaTeX](https://www.latex-tutorial.com/tutorials/) is a document preparation system that is well suited to  scientific/mathematical documents.  Rather than installing it yourself, the online [Overleaf](https://www.overleaf.com) system is easy to use and provides the ability to collaboratively edit.  A (simple guide to LaTeX is at https://www.latex-tutorial.com/tutorials/
 
 
 
