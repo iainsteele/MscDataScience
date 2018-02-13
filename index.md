@@ -13,7 +13,6 @@ or
 
 1.  Ordered lists
 1.  with numbers
-    1.  and subsections
     1.  and another
 
 Or I can format some example code:
@@ -42,6 +41,8 @@ For you project report you have two obvious choices in the tools you choose.
 1.  LaTeX (+ bibTeX reference manager).  [LaTeX](https://www.latex-tutorial.com/tutorials/) is a document preparation system that is well suited to  scientific/mathematical documents.  Rather than installing it yourself, the online [Overleaf](https://www.overleaf.com) system is easy to use and provides the ability to collaboratively edit and then download a resulting PDF.
 
 Even if you want to use Word to write the document, [latex2png](http://latex2png.com) is a very nice way of generating PNG equations to paste into your word document.
+
+Add some more text here.
 
 # Tools for Literature Searches and Access
 
