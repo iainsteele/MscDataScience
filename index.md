@@ -27,6 +27,8 @@ Or I can format some example code:
 
 [Here is a link to a second page](second.md)
 
+Here is an image
+
 ![text about an image](image.png)
 
 # Using GitHub
