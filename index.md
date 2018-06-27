@@ -27,6 +27,8 @@ Or I can format some example code:
 
 [Here is a link to a second page](second.md)
 
+![text about an image](image.png)
+
 # Using GitHub
 
 These links give a basic introduction to using [GitHub](https://guides.github.com/activities/hello-world/) and the [GitHub Work Flow](https://guides.github.com/introduction/flow/).
