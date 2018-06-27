@@ -25,7 +25,7 @@ Or I can format some example code:
       }
 ```
 
-[Here is a link to a second page](second.html)
+[Here is a link to a second page](second.md)
 
 # Using GitHub
 
