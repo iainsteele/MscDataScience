@@ -33,6 +33,10 @@ Here is an image
 
 ![text about an image](image.png)
 
+# LinkedIn
+
+https://www.linkedin.com/feed/
+
 # Using GitHub
 
 These links give a basic introduction to using [GitHub](https://guides.github.com/activities/hello-world/) and the [GitHub Work Flow](https://guides.github.com/introduction/flow/).
