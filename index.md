@@ -1,6 +1,6 @@
 # Introduction
 
-This website is hosted using the [GitHub Pages system](https://pages.github.com) with the [Cayman](https://github.com/pages-themes/cayman) theme.
+This website (https://iainsteele.github.io/MscDataScience/) is hosted using the [GitHub Pages system](https://pages.github.com) with the [Cayman](https://github.com/pages-themes/cayman) theme.
 
 It is written using the [Markdown](https://guides.github.com/features/mastering-markdown/) which is a simple way of writing structured documents without much of the complexity of HTML.
 
