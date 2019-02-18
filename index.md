@@ -4,6 +4,8 @@ This website is hosted using the [GitHub Pages system](https://pages.github.com)
 
 It is written using the [Markdown](https://guides.github.com/features/mastering-markdown/) which is a simple way of writing structured documents without much of the complexity of HTML.
 
+I can use it to make quite complicated sites.  For example https://www.robotictelescope.org/telescope/
+
 I can use it to
 
 * Write unordered Lists
