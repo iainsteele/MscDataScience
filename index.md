@@ -55,7 +55,6 @@ For you project report you have two obvious choices in the tools you choose.
 
 Even if you want to use Word to write the document, [latex2png](http://latex2png.com) is a very nice way of generating PNG equations to paste into your word document.
 
-Add some more text here.
 
 # Tools for Literature Searches and Access
 
